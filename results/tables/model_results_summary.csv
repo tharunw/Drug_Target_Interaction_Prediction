@@ -1,0 +1,6 @@
+Evaluation,MAE,RMSE,R2
+Baseline random split,0.5375,0.7258,0.7049
+Baseline drug-grouped,0.5448,0.73,0.7134
+Baseline protein-grouped,1.5217314258333166,1.679439511148372,-2.3320547658937585
+Enhanced random split,0.5429,0.7355,0.697
+Enhanced protein-grouped,1.200484470245718,1.4552029888979199,-0.17631901493781837

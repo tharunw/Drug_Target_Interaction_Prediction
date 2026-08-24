@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Large/raw datasets
+data/raw/*.csv
+data/raw/*.tsv
+data/raw/*.zip
+
+# Python cache
+.pytest_cache/
+
+# Local output/cache
+*.log
+data/processed/ml_feature_dataset_enhanced_morgan.csv

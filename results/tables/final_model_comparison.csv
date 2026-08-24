@@ -1,0 +1,3 @@
+Model,Random_Split_R2,Drug_Grouped_R2,Protein_Grouped_R2,Protein_R2_Improvement
+Baseline,0.7049,0.7134,-0.2249,
+Enhanced,0.697,,-0.1763,0.04859999999999998
